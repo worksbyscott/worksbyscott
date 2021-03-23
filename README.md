@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Hi, I'm Scott Templeton an aspiring Front-end Developer primarily focused 
-on React JS with knowledge of UX Techniques and Graphic Design experience.
-
+on React JS with knowledge of UX Techniques and Graphic Design experience. 
 Currently completing my final honours year at Edinburgh Napier University 
 in User Experience Design with a predicted grade 2:1 at the end of May 2021
 
